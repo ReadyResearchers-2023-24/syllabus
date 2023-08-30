@@ -72,17 +72,27 @@ not in the above list of course instructors.
 
 ## Assessment Strategy
 
-### Learning Outcomes
+### General Learning Outcomes
 
 By the end of this course, you will develop skills to:
 
-* Develop and complete an independent research process
-* Present and communicate complex ideas in a variety of media through both
-  writing and oral presentations
-* Implement and experimentally evaluate a computational artifact
-* Describe and analyze a research process, its methods, and outcomes in the form
-  of a formal thesis document
-* Effectively accomplish and offer peer and meta-critical review
+* Develop a viable and appropriate proposal for an independent and open-source research project.
+* Describe a research process, its methods, and outcomes in writing in the form of an incremental research notebook, a formal thesis proposal document, and two chapters of a formal thesis document.
+* Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews and formal presentations.
+* Produce and document a working prototype of an artifact.
+* Evaluate the produced prototype and reflect on theoretical, practical, ethical and social impact of the proposed artifact.
+
+#### Computer Science Learning Outcomes
+
+In addition to general learning outcomes, students enrolled in CMPSC 600 will also produce:
+
+* An original project that includes integration of theory and practice or software and hardware.
+
+#### Informatics Learning Outcomes
+
+In addition to general learning outcomes, students enrolled in INFM 600 will also produce:
+
+* An original project that integrates multiple disciplines and provides critical engagement of impact of technology on various communities.
 
 ### Assessment Categories
 
