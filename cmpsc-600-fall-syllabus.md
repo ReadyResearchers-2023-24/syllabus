@@ -1,4 +1,5 @@
-# CMPSC 600: Fall Semester of Two-Semester Senior Thesis Research
+# CMPSC/INFM 600: Fall Semester of Two-Semester Senior Thesis Research in Computer Science and Informatics
+
 # Fall 2023
 
 ## Outline
@@ -28,31 +29,38 @@
 
 ## Introduction
 
-Your senior thesis process affords you the opportunity to pursue independent
-research in computer science. This course parallels the kinds of intense inquiry
-and research inherent to both academic life and a career as a computer
-scientist, data scientist, or software engineer. To that end, you will work
-closely with your readers to explore rich, ever-complex, projects. Though the
+Your senior thesis process provides you the opportunity to pursue independent
+research in computer and information science. This course parallels the kinds of intense inquiry
+and research inherent to both academic life and a career in the field of computer and
+information science. To that end, you will work closely with your readers to explore rich, ever-complex, projects. Though the
 faculty cannot promise that this work will be frustration- or challenge-free, we
 invite you to pursue it with great enthusiasm, vigor, and to -- above all --
 find joy in the process.
 
 ## Course Description
 
-Independent research in computer science.
-Students are invited to use their own departmentally approved laptop in this
-course; a limited number of laptops are available for use during class and lab
-sessions.
-Must be taken on the letter-grade basis.
+### CMPSC 600 - Senior Thesis I
+
+Credits: 4
+
+Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 * Prerequisite: `CMPSC 580`
 * Distribution Requirements: `None`
 
+### INFM 600 - Senior Project I
+
+Independent research in informatics culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+
+Prerequisite: CMPSC 580 or other approved junior seminar and permission of the instructor.
+
+Distribution Requirements: none.
+
 ## Course Instructors
 
-- [Oliver Bonham-Carter](https://www.oliverbonhamcarter.com/)
+- [Oliver Bonham-Carter `**`](https://www.oliverbonhamcarter.com/)
 - [Janyl Jumadinova](https://janyljumadinova.com/)
-- [Gregory M. Kapfhammer `**`](https://www.gregorykapfhammer.com/)
+- [Gregory M. Kapfhammer](https://www.gregorykapfhammer.com/)
 - [Douglas Luman](https://www.douglasjluman.com/)
 
 The instructor with the `**` symbol after their name is the course coordinator
@@ -90,18 +98,18 @@ For the purposes of evaluation, this course is separated into both "primary" and
 |Thesis Chapters                 |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
-To pass `CMPSC 600`, submission of and participation in all of the primary
+To pass `CMPSC/INFM 600`, submission of and participation in all of the primary
 requirements is mandatory.
 In addition to an overall evaluation of each category, a student's work in
-`CMPSC 600` will be evaluated according to each of the following baseline
+`CMPSC 600` and `INFM 600` will be evaluated according to each of the following baseline
 requirements.
 Students who are enrolled in `DOUBL 600` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
 complete them for both `CMPSC 600` and the course for their additional major.
 Importantly, students in `DOUBL 600` must complete _all_ of the requirements for
-_both_ `CMPSC 600` _and_ the `600` course connected to their other major.
+_both_ `CMPSC/INFM 600` _and_ the `600` course connected to their other major.
 Students who enroll in `DOUBL 600` should submit their course contract to both
-of their first readers and the `CMPSC 600` course coordinator.
+of their first readers and the `CMPSC/INFM 600` course coordinator.
 
 ### Deliverable Descriptions
 
@@ -146,7 +154,7 @@ of their first readers and the `CMPSC 600` course coordinator.
     [Semantic Versioning Standard](https://semver.org/)
   - [ ] In adherence to the [Semantic Versioning Standard](https://semver.org/),
     the GitHub repository of the thesis contains a release greater than `1.0.0`
-    for the work in CMPSC 600 and a release greater than `2.0.0` for CMPSC 610
+    for the work in CMPSC/INFM 600 and a release greater than `2.0.0` for CMPSC/INFM 610
   - [ ] The thesis has the correct format created through the use of Pandoc and
     LaTeX and the senior thesis template for the Department of Computer Science
   - [ ] The title of the thesis is both interesting and appropriate
@@ -260,18 +268,18 @@ before receiving IRB approval.
 - Faculty members may need to move from Alden 101 to Alden 109.
 - Students must submit the first two chapters of their senior thesis document.
   The thesis chapters are only required to adhere to those requirements that
-  might be reasonably completed during `CMPSC 600`. For instance, students are
+  might be reasonably completed during `CMPSC/INFM 600`. For instance, students are
   not required to have a senior thesis document that meets the overall word
-  count requirement until they have completed `CMPSC 610`. Students who have
-  questions about the assessment requirements for `CMPSC 600` are encouraged to
-  contact their first reader and the `CMPSC 600` course coordinator.
+  count requirement until they have completed `CMPSC/INFM 610`. Students who have
+  questions about the assessment requirements for `CMPSC/INFM 600` are encouraged to
+  contact their first reader and the `CMPSC/INFM 600` course coordinator.
 
 ## Required Materials
 
 ### Course Textbooks
 
 There are no required textbooks for this course.
-However, the faculty _highly recommend_ investing in the following texts for
+However, the faculty _recommend_ investing in the following texts for
 both academic and professional development:
 
 |Title |Author |ISBN/ASIN |
@@ -283,8 +291,8 @@ both academic and professional development:
 
 ### Course Platforms
 
-* [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers)
-* [Ready, Set, Research! Discord Server](https://discord.gg/KBMAHZRH9x)
+* [ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers-2023-24)
+* [Ready Set Research Discord Server](https://discord.gg/EpPZs6fMaZ)
 
 This course relies heavily on the above GitHub organization and Discord server.
 Your work will be assigned and evaluated on and crucial communication
@@ -320,8 +328,8 @@ sessions.
 
 Despite the fact that the majority of our communication relies on the [Ready,
 Set, Research!
-Discord Server](https://discord.gg/KBMAHZRH9x) and other platforms such as the
-[ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers),
+Discord Server](https://discord.gg/EpPZs6fMaZ) and other platforms such as the
+[ReadyResearchers Organization on GitHub](https://github.com/ReadyResearchers-2023-24),
 the faculty may occasionally use email to communicate significant information.
 As with other the other platforms used by this course, it is your responsibility
 to be accountable for email communication.
