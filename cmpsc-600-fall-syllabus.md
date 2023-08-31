@@ -163,11 +163,12 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   - [ ] The GitHub repository of the thesis contains evidence of many commits
   - [ ] The GitHub repository of the thesis contains multiple releases using the
     [Semantic Versioning Standard](https://semver.org/)
+    - [ ] The GitHub repository of the thesis has a passing build status in GitHub Actions
   - [ ] In adherence to the [Semantic Versioning Standard](https://semver.org/),
     the GitHub repository of the thesis contains a release greater than `1.0.0`
     for the work in CMPSC/INFM 600 and a release greater than `2.0.0` for CMPSC/INFM 610
   - [ ] The thesis has the correct format created through the use of Pandoc and
-    LaTeX and the senior thesis template for the Department of Computer Science
+    LaTeX and the senior thesis template for the Department of Computer and Information Science
   - [ ] The title of the thesis is both interesting and appropriate
   - [ ] The thesis includes at least twelve references
   - [ ] Unless there is a convincing reason to require otherwise, each chapter
@@ -187,6 +188,8 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   - [ ] There are no typographical or grammatical errors in the thesis
   - [ ] There is no extraneous text in the thesis
 
+Students are required to write two chapters of their thesis document. These chapters can include any two of the following:
+
 - **Introduction Section Requirements**
   - [ ] The introduction section clearly describes the completed work
   - [ ] The introduction section motivates the completed work from a
@@ -202,34 +205,18 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
 
 - **Method Section Requirements**
   - [ ] The method section explains the process utilized in the completed study
-  - [ ] The method section addresses as many of the following which are
-    applicable (minimum `1`):
+  - [ ] The method section addresses as many of the necessary methodology used in the research project. For example, the following may be relevant to the project:
   * `description of algorithms`
   * `programming languages`
   * `libraries`
   * `platforms`
   * `software tools`
   * `hardware`
-  - [ ] The method section references the GitHub repository that contains the
-    implementation of the project's computational artifact(s)
-  - [ ] The method section gives examples of the input and output of the
-    project's computational artifact(s) and, when appropriate, explains how to
+  - [ ] The method section references the GitHub repository that contains the project's artifact(s)
+  - [ ] The method section, when appropriate, explains how to
     run the computational artifact (note that the `README.md` file of the GitHub
     repository that contains the computational artifact(s) should furnish
-    complete details about the input, output, behavior, and use of the project)
-
-- **Experimental Results Section Requirements**
-  - [ ] The experimental results section includes a description of experiments
-    such that a reader should be able to reproduce them
-  - [ ] The evaluation subsection describes how the work is validated
-  - [ ] The evaluation subsection contains at least one graph, table of data, or
-    some other relevant presentation of the results from the experimental study
-  - [ ] The experimental results section details threats to validity
-
-- **Discussion and Future Work Section Requirements**
-  - [ ] The discussion and future work section discusses the impact of the completed research project
-  - [ ] The discussion and future work section critically reflects on the completed research project
-  - [ ] The conclusion outlines, with sufficient depth and detail, avenues for further and/or future work
+    complete details about the input, output, behavior, and use of the project as necessary)
 
 - **Computational Artifact**
   - [ ] The artifact's source code exists in a publicly available GitHub
