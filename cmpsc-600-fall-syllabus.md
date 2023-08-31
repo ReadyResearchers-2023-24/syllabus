@@ -124,7 +124,7 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
 ### Deliverable Descriptions
 
 - **Research Notebook**
-  - [ ] The student created a Google Doc to record details about their meetings with the first reader and additional
+  - [ ] The student created a GitHub discussion notebook to record details about their meetings with the first reader and additional
     research notes
   - [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
   - [ ] The contents of the research notebook have regular dated entries throughout the Fall 2023 semester
