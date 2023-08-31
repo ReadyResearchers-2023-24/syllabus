@@ -127,7 +127,7 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   - [ ] The student created a GitHub discussion notebook to record details about their meetings with the first reader and additional
     research notes
   - [ ] The research notebook contains evidence of numerous dated entries for research meetings and additional notes
-  - [ ] The contents of the research notebook have regular dated entries throughout the Fall 2023 semester
+  - [ ] The contents of the research notebook have regular dated entries of research notes throughout the fall semester
   - [ ] The contents of the research notebook have a clear connection to the research project
   - [ ] The contents of the research notebook give evidence of regular progress on the research project
 
@@ -151,6 +151,7 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   - [ ] The project pitch has an accessible overview of the proposed project
   - [ ] The project pitch contained an effective tool demonstration
   - [ ] The project pitch gave a clear project motivation
+  - [ ] The project pitch gave evidence of project feasibility
   - [ ] The student effectively answered the questions from the audience
   - [ ] The student completed the project pitch within the five-minute time limit
   - [ ] The student completed the question and answer session within the two-minute time limit
@@ -181,8 +182,6 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   * `figure`
   * `table`
   * `graph`
-  - [ ] The thesis contains a sufficient amount of content with a focus on
-    scientific, technical, engineering, and/or mathematical content
   - [ ] The thesis highlights and explains the societal impacts and ethical
     implications of the completed research
   - [ ] There are no typographical or grammatical errors in the thesis
@@ -237,13 +236,14 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
     repository
   - [ ] The artifact's GitHub repository contains documentation on how to
     install and use it
-  - [ ] It is possible for a computer scientist who is not the creator of the
+  - [ ] It is possible for an individual who is not the creator of the
     GitHub repository to install and use the computational artifact
   - [ ] The artifact's GitHub repository contains sufficient evidence of
     best practices for software development (e.g., test suites, linters, and the
     setup of continuous integration in GitHub Actions)
   - [ ] The GitHub repository features deliverables that have a clear
     connection to the research project
+  - [ ] The GitHub repository gives clear evidence of project feasibility 
   - [ ] The GitHub repository contains evidence of regular commits through
     the spring semester
 
