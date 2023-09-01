@@ -7,6 +7,7 @@
   * [Introduction](#introduction)
   * [Course Description](#course-description)
   * [Course Instructors](#course-instructors)
+  * [Course Schedule](#course-schedule)
   * [Assessment Strategy](#assessment-strategy)
     + [Learning Outcomes](#learning-outcomes)
     + [Assessment Categories](#assessment-categories)
