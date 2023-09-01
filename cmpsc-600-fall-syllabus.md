@@ -30,9 +30,9 @@
 ## Introduction
 
 Your senior thesis process provides you the opportunity to pursue independent
-research in computer and information science. This course parallels the kinds of intense inquiry
-and research inherent to both academic life and a career in the field of computer and
-information science. To that end, you will work closely with your readers to explore rich, ever-complex, projects. Though the
+research in Computer and Information Science. This course parallels the kinds of intense inquiry
+and research inherent to both academic life and a career in the field of Computer and
+Information Science. To that end, you will work closely with your readers to explore rich, ever-complex, projects. Though the
 faculty cannot promise that this work will be frustration- or challenge-free, we
 invite you to pursue it with great enthusiasm, vigor, and to -- above all --
 find joy in the process.
@@ -198,7 +198,7 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   - [ ] The student asked and/or answered questions from their peers
   - [ ] The student actively participated in the peer review process
   - [ ] The student demonstrated growth in their knowledge of their research topic
-  - [ ] The student demonstrated growth in their ability to conduct research in computer science
+  - [ ] The student demonstrated growth in their ability to conduct research in Computer and Information Science
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
 - **Project Pitch**
@@ -250,8 +250,7 @@ Students are required to write two chapters of their thesis document. These chap
 - **Introduction Section Requirements**
   - [ ] The introduction section clearly describes the completed work
   - [ ] The introduction section motivates the completed work from a
-    professional perspective focused on science, technology, engineering,
-    mathematics, and societal implications
+    professional perspective
   - [ ] The introduction section outlines the ethical implications of the thesis
 
 - **Related Work Section Requirements**
@@ -391,7 +390,7 @@ to be accountable for email communication.
 
 ### Syllabus Revision
 
-The faculty of the Department of Computer Science reserve the right to make
+The faculty of the Department of Computer and Information Science reserve the right to make
 changes to this syllabus document.
 Should a change occur, they may be discussed with the members of the course
 community.
@@ -406,10 +405,10 @@ date of the deliverable affected.
 All students and faculty at Allegheny College are bound by the Honor Code.
 Everyone expects that your behavior reflects this commitment.
 Given the eminently shareable and reproducible nature of code, the Department of
-Computer Science adds the following statement to the general college policy:
+Computer and Information Science adds the following statement to the general college policy:
 
 > It is recognized that an important part of the learning process in any course,
-and particularly in computer science, derives from thoughtful discussions with
+and particularly in computing, derives from thoughtful discussions with
 teachers, student assistants, and fellow students.
 Such dialogue is encouraged.
 However, it is necessary to distinguish carefully between the student who
@@ -417,7 +416,7 @@ discusses the principles underlying a problem with others, and the student who
 produces assignments that are identical to, or merely variations on, someone
 else’s work.
 It will therefore be understood that all assignments submitted to faculty of the
-Department of Computer Science are to be the original work of the student
+Department of Computer and Information Science are to be the original work of the student
 submitting the assignment, and should be signed in accordance with the
 provisions of the Honor Code.
 Appropriate action will be taken when assignments give evidence that they were
@@ -433,7 +432,7 @@ Overflow or text generation systems such as ChatGPT.
 
 ### Classroom Ethics
 
-The discipline of computer science, like many others, encourages its members to
+The discipline of Computer and Information Science, like many others, encourages its members to
 act according to discipline-specific ethics.
 The faculty encourage you to take time to review the Association for Computing
 Machinery (ACM) [Code of
