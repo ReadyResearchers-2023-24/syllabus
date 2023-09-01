@@ -151,6 +151,12 @@ In addition to general learning outcomes, students enrolled in INFM 600 will als
 
 * An original project that integrates multiple disciplines and provides critical engagement of impact of technology on various communities.
 
+#### Software Engineering Learning Outcomes
+
+In addition to general learning outcomes, students enrolled in SE 600 will also produce:
+
+* An original software project that is working, well-tested, and deployed to production. The completed hardware or software project is working, tested and error-free.
+
 ### Assessment Categories
 
 For the purposes of evaluation, this course is separated into both "primary" and
