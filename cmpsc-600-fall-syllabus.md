@@ -108,7 +108,7 @@ Brainstorm project ideas with first reader and your research group.
 
 - **Week Nine: 23 October - 27 October**: Pitch presentations.
 
-- **Week Ten: 30 October - 3 November**: Pitch presentations.
+- **Week Ten: 30 October - 3 November**: Pitch presentations. If applicable, submit completed IRB proposal to first reader by 1st November.
 
 - **Week Eleven: 6 November - 10 November**: Pitch presentations.
 
