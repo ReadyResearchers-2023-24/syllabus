@@ -70,6 +70,63 @@ course coordinator and your first reader(s).
 Finally, if you are enrolled in `DOUBL 600` you may have a first reader who is
 not in the above list of course instructors.
 
+## Course Schedule
+
+### High-Level Overview
+
+- **Week One (29 August - 1 September) through Week Seven (9 October - 13 October)**:
+  Project idea creation, and implementation and documentation of the project artifact prototype.
+
+- **13 October at 11:59 PM**: Submit the final version as a working project artifact prototype.
+
+- **Week Eight (16 October - 20 October) through Week Fourteen (November 27 - December 1)**: Oral
+  defense of senior theses project proposals.
+
+- **Week Fifteen (4 December - 8 December) through Week Seventeen (18 December - 19 December)**:
+  Writing and finalizing two chapters of a senior thesis document.
+
+- **19 December 5 at 11:59 PM**: Submit the final version of two chapters of your senior thesis as a tagged release in the document's GitHub repository.
+
+### Detailed Description
+
+- **Week One: 29 August - 1 September**: Confirm correct registration for the course. 
+Brainstorm project ideas with first reader and your research group.
+
+- **Week Two: 4 September - 8 September**: Pitch your project idea to your research group. 
+
+- **Week Three: 11 September - 15 September**: Set up your GitHub repositories, start building your computational artifact.
+
+- **Week Four: 18 September - 22 September**: Continue to set up your project and work on creation of computational artifact. 
+
+- **Week Five: 25 September - 29 September**: Continue to set up your project and work on creation of computational artifact. 
+
+- **Week Six: 2 October - 6 October**: Demonstrate project feasibility. 
+
+- **Week Seven: 9 October - 13 October**: Complete project set up and artifact prototype creation.
+
+- **Week Eight: 16 October - 20 October**: Prepare for your project's pitch presentation.
+
+- **Week Nine: 23 October - 27 October**: Pitch presentations.
+
+- **Week Ten: 30 October - 3 November**: Pitch presentations.
+
+- **Week Eleven: 6 November - 10 November**: Pitch presentations.
+
+- **Week Twelve: 13 November - 17 November**: Pitch presentations.
+
+- **Week Thirteen: 20 November - 24 November**: No class this week.
+
+- **Week Fourteen: November 27 - December 1**: Pitch presentations.
+
+- **Week Fifteen: 4 December - 8 December**: Write a completed draft of first chapter. Receive feedback.
+
+- **Week Sixteen: 11 December - 15 December**: Incorporate feedback and finalize the first chapter of your senior thesis. Write a draft of a second chapter of your senior thesis and receive feedback.
+
+- **Week Seventeen: 18 December - 19 December**: Incorporate feedback and finalize the second chapter of your senior thesis.
+
+- **Final Draft Thesis Due: 19 December**: Submit through a tagged release in
+  GitHub of two final drafts of the chapters of your undergraduate senior thesis. 
+
 ## Assessment Strategy
 
 ### General Learning Outcomes
