@@ -81,7 +81,7 @@ not in the above list of course instructors.
 
 - **13 October at 11:59 PM**: Submit the final version as a working project artifact prototype.
 
-- **Week Eight (16 October - 20 October) through Week Fourteen (November 27 - December 1)**: Oral
+- **Week Eight (16 October - 20 October) through Week Fourteen (27 November - 1 December)**: Oral
   defense of senior theses project proposals.
 
 - **Week Fifteen (4 December - 8 December) through Week Seventeen (18 December - 19 December)**:
@@ -118,7 +118,7 @@ Brainstorm project ideas with first reader and your research group.
 
 - **Week Thirteen: 20 November - 24 November**: No class this week.
 
-- **Week Fourteen: November 27 - December 1**: Pitch presentations.
+- **Week Fourteen: 27 November - 1 December**: Pitch presentations.
 
 - **Week Fifteen: 4 December - 8 December**: Write a completed draft of first chapter. Receive feedback.
 
