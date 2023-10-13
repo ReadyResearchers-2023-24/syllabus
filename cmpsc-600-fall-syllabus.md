@@ -128,6 +128,10 @@ Brainstorm project ideas with first reader and your research group.
 - **Final Draft Thesis Due: 19 December**: Submit through a tagged release in
   GitHub of two final drafts of the chapters of your undergraduate senior thesis. 
 
+### Presentation Schedule
+
+The URL link for the pitch and artifact deonstrations is the [here}(https://docs.google.com/spreadsheets/d/1Z4wkpCi_RjbqrNiuq1ySID8kZIQxzXDATSH6rKUnDLk/edit?usp=sharing).
+
 ## Assessment Strategy
 
 ### General Learning Outcomes
