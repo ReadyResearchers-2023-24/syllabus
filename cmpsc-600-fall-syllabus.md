@@ -131,7 +131,7 @@ Brainstorm project ideas with first reader and your research group.
 
 ### Presentation Schedule
 
-The URL link for the pitch and artifact deonstrations is the [here](https://docs.google.com/spreadsheets/d/1Z4wkpCi_RjbqrNiuq1ySID8kZIQxzXDATSH6rKUnDLk/edit?usp=sharing).
+The URL link for the pitch and artifact deonstrations is [here](https://docs.google.com/spreadsheets/d/1Z4wkpCi_RjbqrNiuq1ySID8kZIQxzXDATSH6rKUnDLk/edit?usp=sharing).
 
 ## Assessment Strategy
 
