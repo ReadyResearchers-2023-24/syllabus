@@ -286,6 +286,7 @@ Students are required to write two chapters of their thesis document. These chap
     repository
   - [ ] The artifact's GitHub repository contains documentation on how to
     install and use it
+  - [ ] The README file in the GitHub repository clearly describes the project, its motivation and goals, situates it in context of related work, provides technical details, and future directions
   - [ ] It is possible for an individual who is not the creator of the
     GitHub repository to install and use the computational artifact
   - [ ] The artifact's GitHub repository contains sufficient evidence of
@@ -295,7 +296,7 @@ Students are required to write two chapters of their thesis document. These chap
     connection to the research project
   - [ ] The GitHub repository gives clear evidence of project feasibility 
   - [ ] The GitHub repository contains evidence of regular commits through
-    the spring semester
+    the fall semester
 
 ### Institutional Review Board (IRB) Proposals
 
