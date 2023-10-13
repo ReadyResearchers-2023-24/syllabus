@@ -214,7 +214,7 @@ of their first readers and the `CMPSC/INFM 600` course coordinator.
   - [ ] The student suggested ways in which to improve and/or gave feedback on the course's research process
 
 - **Project Pitch**
-  - [ ] The student submitted the final version of their slides one week in advance of the date on which they presented
+  - [ ] The student submitted the final version of their slides by 22nd October.
   - [ ] The student gave the project pitch on the assigned date
   - [ ] The project pitch featured effective and well-designed slides
   - [ ] The project pitch has an accessible overview of the proposed project
