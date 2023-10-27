@@ -1,4 +1,6 @@
-# Pitch Presentations
+# Pitch Presentations: Fall 2023
+
+Below there are tables of presenter information including URLs to link to Presentation slides and Demonstration materials.
 
 * Week Nine: 23 October - 27 October
 
@@ -11,6 +13,12 @@ mandel01  |Maximillian Mandel|CS|GMK|DL| [Pres](https://drive.google.com/file/d/
 normile01 |Jeff Normile      |CS|GMK|DL|  [Pres](https://drive.google.com/file/d/1DzOdBEnDktM0aE7dOCQmOs0V1zVKrjrj/view?usp=sharing)| Live demo 
 neeson01  |Aidan Neeson      |CS|GMK|DL| [Pres](https://drive.google.com/file/d/15Ku2nadMjXBVs9ScCR2Tshgpp6kBEBuq/view?usp=sharing)| [Demo](https://drive.google.com/file/d/1Oc1ZtiH_a-5q6VCpTqlnfuE1a2FEE3-I/view?usp=sharing)
 
+## Pitch Evaluation Survey
 
-<!-- <a href="" target="_blank">Pres</a>|
+Even if you are not presenting on a particular day, your involvement in the course is critical! As a part of your course grade, please provide a response for all of the following questions for every presenter who gives a pitch in your classroom. Your responses to all of the questions in the pitch evaluation should reflect your views of the strengths and weaknesses of the proposed project. Make sure that you give detailed feedback that will help the presenter to improve both their research project and any upcoming presentations!
+
+[Speaker survey](https://forms.gle/Rg3AmS8YjDHEDSY27)
+
+<!-- The below url provider code opens a new window for each click. Would this be helpful? 
+<a href="" target="_blank">Pres</a>|
 <a href="" target="_blank">Demo</a> -->
