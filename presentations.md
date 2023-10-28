@@ -45,7 +45,6 @@ kennedy01	|Ryan Kennedy	|INFM	|OBC|JJ| [Pres](http) | [Demo](http)
 lacaria01	|Luke Lacaria	|CS		|DL	|OBC| [Pres](http) | [Demo](http)
 watson02	|Rian Watson	|CS		|JJ	|OBC| [Pres](http) | [Demo](http)
 
-
 * **Week Fourteen**: 27 November - 1 December
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
