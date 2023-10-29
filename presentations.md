@@ -52,7 +52,7 @@ watson02	|Rian Watson	|CS		|JJ	|OBC| [Pres](https://drive.google.com/file/d/14WU
 wirth01     |Griffin Wirth	        |INFM|DL	|Michael Mehler (Theatre)| [Pres](https://drive.google.com/file/d/1nhST3aC-rlevIhnckosIYtznRIdSII5x/view?usp=sharing) | [Missing](http)
 abraham01	|Michael Abraham	    |CS|DL	    |John Miller (English)| [Pres](https://drive.google.com/file/d/1OmH9gs5dVUpiDxonWimJRvYcu7jllzxv/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1WPxGgW_icAz4lRHKuHfXKyoc9cykiXBY/view)
 gantulga01  |Tuguldurnemekh Gantulga|CS|GMK	    |Timothy Bianco (Econ)| [Pres](https://drive.google.com/file/d/18G2pX7X8URB9oxN6gqi1jJwQyuBeukX2/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=D953F3yN7aQ)
-gammon01    |Mariah Gammon          |INFM|GMK	|OBC | Pres](https://drive.google.com/file/d/164u0cjR4YCJgrG0MBj7BaCx6XaWjZ4ix/view?usp=sharing) | [Missing](http)
+gammon01    |Mariah Gammon          |INFM|GMK	|OBC | [Pres](https://drive.google.com/file/d/164u0cjR4YCJgrG0MBj7BaCx6XaWjZ4ix/view?usp=sharing) | [Missing](http)
 ochieng01   |Bill Ochieng           |CS|JJ      |Francisco Navarro-Sanchez (econ)| [Pres](https://drive.google.com/file/d/1VdpcsKubcfnAP10-e7S2wxH95C9twMSv/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=44UbiYnpN-w)
 
 
