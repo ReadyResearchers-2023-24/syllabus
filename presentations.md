@@ -2,7 +2,7 @@
 
 Below there are tables of presenter information including URLs to link to Presentation slides and Demonstration materials.
 
-* **Week Nine**: 23 October - 27 October
+## **Week Nine**: 23 October - 27 October
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
@@ -14,7 +14,9 @@ normile01 |Jeff Normile      |CS|GMK|DL| [Pres](https://drive.google.com/file/d/
 neeson01  |Aidan Neeson      |CS|GMK|DL| [Pres](https://drive.google.com/file/d/15Ku2nadMjXBVs9ScCR2Tshgpp6kBEBuq/view?usp=sharing)| [Demo](https://drive.google.com/file/d/1Oc1ZtiH_a-5q6VCpTqlnfuE1a2FEE3-I/view?usp=sharing)
 
 
-* **Week Ten**: 30 October - 3 November
+---
+
+## **Week Ten**: 30 October - 3 November
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
@@ -24,7 +26,9 @@ magee01	    |River Magee	                |INFM|OBC|DL | [Pres](https://docs.goog
 turner01	|Jack Turner	                |CS  |JJ |GMK| [Pres](https://drive.google.com/file/d/12QHMTx0u4SiDLrN-MiW4vCq3bo1v29J7/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1JDVFbZSOPtWEePKtRAnbS7YCDrbh3XcW/view?usp=sharing)
 davaajambal01   |Ochirsaikhan Davaajambal   |CS  |GMK|JJ | [Pres](https://drive.google.com/file/d/11ixnV2_yfiw_YERSsMVCAEaka_-APyDJ/view?usp=sharing) | [Demo](https://docs.google.com/file/d/1SGCBPWwLw3T-cn_LDSd4QLmX7YqJ4DMG/preview)
 
-* **Week Eleven**: 6 November - 10 November
+---
+
+## **Week Eleven**: 6 November - 10 November
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
@@ -35,7 +39,9 @@ holland01	|Dylan Holland	        |CS|DL|JJ| [Pres](https://drive.google.com/file
 carmop	    |Pedro Carmo	        |CS|DL|JJ| [Pres](https://drive.google.com/file/d/1mBAJDl-2Pt116td64aX4_h_347qfMPGs/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1TkItqt5I9_iH5eIjmefDTGoPPRZbroKu/view)
 chen02	    |Yanqiao Chen	        |CS|GMK|JJ| [Pres](https://drive.google.com/file/d/1w-BInXkiPE0MNzxVJAapaDjZmdTwlUqR/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=OBYw6WYSyV0)
 
-* **Week Twelve**: 13 November - 17 November|
+---
+
+## **Week Twelve**: 13 November - 17 November|
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
@@ -45,7 +51,9 @@ kennedy01	|Ryan Kennedy	|INFM	|OBC|JJ| [Pres](https://drive.google.com/file/d/1-
 lacaria01	|Luke Lacaria	|CS		|DL	|OBC| [Pres](https://docs.google.com/presentation/d/1zKwzTCVal2OMm1TIqjNFbEfmsQrSHepIMinVVDKbsbw/edit#slide=id.p) | [Demo](https://www.youtube.com/watch?v=Y_6gc8axY1Q)
 watson02	|Rian Watson	|CS		|JJ	|OBC| [Pres](https://drive.google.com/file/d/14WUGHJRqti_-40VE9kSkaNjCcWj-K3iM/view?usp=sharing) | Live demo
 
-* **Week Fourteen**: 27 November - 1 December
+---
+
+## **Week Fourteen**: 27 November - 1 December
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
