@@ -20,7 +20,7 @@ neeson01  |Aidan Neeson      |CS|GMK|DL| [Pres](https://drive.google.com/file/d/
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
-vazquez01   |Anthony Vazquez                |INFM|OBC|DL | [**Missing**](http) | [**Missing**](http)
+vazquez01   |Anthony Vazquez                |INFM|OBC|DL | [**Pres**](https://drive.google.com/file/d/14S2-5pHTDorjVVOi6VrqpCpOyN4BqCDY/view?usp=sharing) | **live demo**
 gray05	    |Brenden Gray	                |INFM|OBC|DL | [Pres](https://drive.google.com/file/d/17sO8B6yzup8uaVIgpa4cRoXElVM2ZgId/view?usp=sharing) | [Demo](https://docs.google.com/file/d/14HAsw2HQA0oczrxdwK3S3945jB-9qpPp/preview)
 magee01	    |River Magee	                |INFM|OBC|DL | [Pres](https://docs.google.com/presentation/d/1B_3XXbVeGRUFJ_ejNKNgMvLseAsLHArJsOy7zs70ucI/edit?usp=sharing) | video in slides
 turner01	|Jack Turner	                |CS  |JJ |GMK| [Pres](https://drive.google.com/file/d/12QHMTx0u4SiDLrN-MiW4vCq3bo1v29J7/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1JDVFbZSOPtWEePKtRAnbS7YCDrbh3XcW/view?usp=sharing)
