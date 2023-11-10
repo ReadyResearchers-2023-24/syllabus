@@ -32,9 +32,9 @@ davaajambal01   |Ochirsaikhan Davaajambal   |CS  |GMK|JJ | [Pres](https://drive.
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
-kidane01	|Naboni Thomas Kidane   |INFM|OBC|DL| [Pres](https://drive.google.com/file/d/10pnz6LD8dlVh2Y_Eo-p_czSHIkhzhjQJ/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=tgGWHM0on8U)
 gormley01	|David Gormley	        |CS|OBC|GMK| [Pres](https://drive.google.com/file/d/1ad1kLOyWynyiWG4ivdJ2u8PZRh5fZO6e/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1Z6x_Lz4lHnIES-1t1so20bYNCeYwSo9G/view?usp=sharing)
 kelly01	    |Peyton Kelly	        |CS|OBC|GMK| [Pres](https://docs.google.com/presentation/d/1FxnnU9gDnou7fdsN-4HzqIhljv9oJw0uC9skkxdCKNc/edit#slide=id.g742e3e7cd_1_16) | [Demo](https://drive.google.com/file/d/1Q5IaEMSF4-ley_kTcPdxreSReoaw3WAq/view?usp=sharing)
+kidane01	|Naboni Thomas Kidane   |INFM|OBC|DL| [Pres](https://drive.google.com/file/d/10pnz6LD8dlVh2Y_Eo-p_czSHIkhzhjQJ/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=tgGWHM0on8U)
 holland01	|Dylan Holland	        |CS|DL|JJ| [Pres](https://drive.google.com/file/d/1k8M2gi3u17xFUdGAFWK8NPpkL7gA8ws6/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=x-9UTvif5d4)
 carmop	    |Pedro Carmo	        |CS|DL|JJ| [Pres](https://drive.google.com/file/d/1mBAJDl-2Pt116td64aX4_h_347qfMPGs/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1TkItqt5I9_iH5eIjmefDTGoPPRZbroKu/view)
 chen02	    |Yanqiao Chen	        |CS|GMK|JJ| [Pres](https://drive.google.com/file/d/1w-BInXkiPE0MNzxVJAapaDjZmdTwlUqR/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=OBYw6WYSyV0)
