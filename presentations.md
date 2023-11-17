@@ -48,8 +48,8 @@ chen02	    |Yanqiao Chen	        |CS|GMK|JJ| [Pres](https://drive.google.com/fil
 miller04	|Tyler Miller	|CS		|DL	|GMK| [Pres](https://drive.google.com/file/d/1pB1rhck7Wpli_GFj5OSyzYJaM3i4x5Rv/view?usp=sharing) | [Demo](https://docs.google.com/file/d/1_EAl1iZsgmd6dnML11AJFyvSuVSJ1LTH/preview)
 mendez01	|Esteban Mendez	|CS		|DL	|GMK| [Pres](https://drive.google.com/file/d/114O8H0y8vZG6evueoP8GH7-CDc8EHT_t/view?usp=sharing) | [Demo](https://docs.google.com/file/d/1wB8BXkAQ0PsFG59wTA9njA4XOeTMuvRL/preview)
 kennedy01	|Ryan Kennedy	|INFM	|OBC|JJ| [Pres](https://drive.google.com/file/d/1-X-mi50EOMPM_9zU0ezmxen8CGFSpf-F/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1tzd_Uij8pSPks5kPsmqc4lYXbuVfKROx/view)
-lacaria01	|Luke Lacaria	|CS		|DL	|OBC| [Pres](https://docs.google.com/presentation/d/1zKwzTCVal2OMm1TIqjNFbEfmsQrSHepIMinVVDKbsbw/edit#slide=id.p) | [Demo](https://www.youtube.com/watch?v=Y_6gc8axY1Q)
 watson02	|Rian Watson	|CS		|JJ	|OBC| [Pres](https://drive.google.com/file/d/14WUGHJRqti_-40VE9kSkaNjCcWj-K3iM/view?usp=sharing) | Live demo
+lacaria01	|Luke Lacaria	|CS		|DL	|OBC| [Pres](https://docs.google.com/presentation/d/1zKwzTCVal2OMm1TIqjNFbEfmsQrSHepIMinVVDKbsbw/edit#slide=id.p) | [Demo](https://www.youtube.com/watch?v=Y_6gc8axY1Q)
 
 ---
 
