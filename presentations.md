@@ -41,7 +41,7 @@ chen02	    |Yanqiao Chen	        |CS|GMK|JJ| [Pres](https://drive.google.com/fil
 
 ---
 
-## **Week Twelve**: 13 November - 17 November|
+## **Week Twelve**: 13 November - 17 November
 
 |ID|Your Name|Your major|First Reader|Second Reader|Presentation| Demo
 |-------------|---------|----------|------------|-------------|-----|---|
