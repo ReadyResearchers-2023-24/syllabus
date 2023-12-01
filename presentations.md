@@ -60,7 +60,7 @@ lacaria01	|Luke Lacaria	|CS		|DL	|OBC| [Pres](https://docs.google.com/presentati
 wirth01     |Griffin Wirth	        |INFM|DL	|Michael Mehler (Theatre)| [Pres_slides](https://drive.google.com/file/d/1nhST3aC-rlevIhnckosIYtznRIdSII5x/view?usp=sharing),[Pres-website](https://allegheny-light.gitbook.io/vectorworks-spotlight-manual/)| [**demo1**](https://www.youtube.com/watch?v=dn2kKnMOJDs&ab_channel=GriffinWirth),[**demo2**](https://www.youtube.com/watch?v=EWwGY3UfDYE&ab_channel=GriffinWirth),[**demo3**](https://www.youtube.com/watch?v=sztsyCuQkVw&ab_channel=GriffinWirth)
 abraham01	|Michael Abraham	    |CS|DL	    |Alexis Hart (English)| [Pres](https://drive.google.com/file/d/1OmH9gs5dVUpiDxonWimJRvYcu7jllzxv/view?usp=sharing) | [Demo](https://drive.google.com/file/d/1WPxGgW_icAz4lRHKuHfXKyoc9cykiXBY/view)
 gantulga01  |Tuguldurnemekh Gantulga|CS|GMK	    |Timothy Bianco (Econ)| [Pres](https://drive.google.com/file/d/18G2pX7X8URB9oxN6gqi1jJwQyuBeukX2/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=D953F3yN7aQ)
-gammon01    |Mariah Gammon          |INFM|GMK	|OBC | [Pres](https://drive.google.com/file/d/164u0cjR4YCJgrG0MBj7BaCx6XaWjZ4ix/view?usp=sharing) | [**Missing**](http)
+gammon01    |Mariah Gammon          |INFM|GMK	|OBC | [Pres](https://drive.google.com/file/d/164u0cjR4YCJgrG0MBj7BaCx6XaWjZ4ix/view?usp=sharing) | [Demo Part1](https://docs.google.com/file/d/1JQtk69OITqjHfAUMC9i2wTCPvcOLASRC/preview), [Demo Part2](https://docs.google.com/file/d/1jb3SwXatYmIkAXtYhpMedgNhdsEyTPlX/preview)
 ochieng01   |Bill Ochieng           |CS|JJ      |Francisco Navarro-Sanchez (econ)| [Pres](https://drive.google.com/file/d/1VdpcsKubcfnAP10-e7S2wxH95C9twMSv/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=44UbiYnpN-w)
 
 
