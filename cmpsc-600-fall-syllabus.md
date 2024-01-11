@@ -43,8 +43,6 @@ find joy in the process.
 
 ### CMPSC 600 - Senior Thesis I
 
-Credits: 4
-
 Independent research in computer science culminating in the development of prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
 
 * Prerequisite: `CMPSC 580`
