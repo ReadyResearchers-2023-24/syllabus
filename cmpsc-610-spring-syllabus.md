@@ -84,7 +84,8 @@ not in the above list of course instructors.
   Final revisions to senior thesis document.
 
 - **May 3 at 11:59 PM**: Submit the final version of senior thesis as a tagged
-  release in the document's GitHub repository.
+  release in the document's GitHub repository. Upload the final PDF of
+  your thesis to DSpace.
 
 ### Detailed Description
 
