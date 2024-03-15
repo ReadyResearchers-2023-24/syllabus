@@ -58,7 +58,7 @@ class and lab sessions.
 - [Douglas Luman](https://www.douglasjluman.com/)
 
 The instructor with the `**` symbol after their name is the course coordinator
-who is responsible for orchestrating all aspects of the `CMPSC 610` course.
+who is responsible for orchestrating all aspects of the `CMPSC/INFM/SE 610` course.
 If you have any high-level questions about this course, please contact both the
 course coordinator and your first reader(s).
 Finally, if you are enrolled in `DOUBL 610` you may have a first reader who is
@@ -74,8 +74,8 @@ not in the above list of course instructors.
 - **March 22 at 11:59 PM**: Submit the final draft version as a tagged release in
   the document's GitHub repository.
 
-- **March 24 at 11:59 PM**: Submit the final version of the thesis defense presentation slides
-  and the artifact demonstration video using the provided Google Form.
+- **March 27 at 11:59 PM**: Submit the final version of the thesis defense presentation slides
+  and the artifact demonstration video using the provided [Google Form](https://forms.gle/fmRjqJ9Hi73SrhJX7).
 
 - **Week Eleven (March 25 - 29) through Week Fourteen (April 15 - 19)**: Oral
   defense of senior theses.
@@ -141,8 +141,8 @@ not in the above list of course instructors.
   potentially subject to revision, this is the version of your thesis that you
   will defend and that your presentation slides should reflect.
 
-- **Defense Presentation Slides and Demonstration Video Due: March 24**: Submit through a
-  provided Google Form the final version of the defense presentation slides and the artifact demonstration video.
+- **Defense Presentation Slides and Demonstration Video Due: March 27**: Submit through a
+  provided [Google Form](https://forms.gle/fmRjqJ9Hi73SrhJX7) the final version of the defense presentation slides and the artifact demonstration video.
   
 - **Final Thesis Due: May 3**: Submit through a tagged release in GitHub the
   final version of your undergraduate senior thesis. Upload the final PDF of
@@ -202,18 +202,18 @@ For the purposes of evaluation, this course is separated into both "primary" and
 |Thesis Chapters                 |Primary                                 |
 |Computational Artifact          |Primary                                 |
 
-To pass `CMPSC 610`, submission of and participation in all of the primary
+To pass `CMPSC/INFM/SE 610`, submission of and participation in all of the primary
 requirements is mandatory.
 In addition to an overall evaluation of each category, a student's work in
 `CMPSC 610` will be evaluated according to each of the following baseline
 requirements.
 Students who are enrolled in `DOUBL 610` are also required to write a course
 contract that describes the deliverables and the deadlines by which they will
-complete them for both `CMPSC 610` and the course for their additional major.
+complete them for both `CMPSC/INFM 610` and the course for their additional major.
 Importantly, students in `DOUBL 610` must complete _all_ of the requirements for
-_both_ `CMPSC 610` _and_ the `610` course connected to their other major.
+_both_ `CMPSC/INFM 610` _and_ the `610` course connected to their other major.
 Students who enroll in `DOUBL 610` should submit their course contract to both
-of their first readers and the `CMPSC 610` course coordinator.
+of their first readers and the `CIS 610` course coordinator.
 
 ### Deliverable Descriptions
 
