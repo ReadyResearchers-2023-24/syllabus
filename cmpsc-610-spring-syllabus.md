@@ -160,7 +160,7 @@ not in the above list of course instructors.
   time limits
     - Senior thesis presentation: 10 minutes
     - Question and answer session: 5 minutes
-    - Demonstration of computation artifact: 1 minute
+    - Demonstration of computation artifact: 2 minutes
 - Presenting students must strictly adhere to the stated time limits.
 - The readers for a senior comprehensive project may submit additional
   questions to the GitHub issue tracker in the repository for a
