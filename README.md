@@ -11,3 +11,4 @@ course in research methods in Computer and Information Science.
 - [Issue Tracker for Feedback on a Syllabus](https://github.com/ReadyResearchers/ready-set-research-syllabus/issues)
 - [Pull Requests for Improvement to the Syllabus](https://github.com/ReadyResearchers/ready-set-research-syllabus/pulls)
 - [600 Pitch Presentation Schedule with URLs](https://github.com/ReadyResearchers-2023-24/syllabus/blob/main/presentations.md)
+- [610 Defense Schedule]([https://github.com/ReadyResearchers-2023-24/syllabus/blob/main/presentations.md](https://docs.google.com/spreadsheets/d/1Z4wkpCi_RjbqrNiuq1ySID8kZIQxzXDATSH6rKUnDLk/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1Z4wkpCi_RjbqrNiuq1ySID8kZIQxzXDATSH6rKUnDLk/edit?usp=sharing)
